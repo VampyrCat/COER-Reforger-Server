@@ -1,0 +1,1 @@
+start https://community.bistudio.com/wiki/Arma_Reforger:Server_Hosting

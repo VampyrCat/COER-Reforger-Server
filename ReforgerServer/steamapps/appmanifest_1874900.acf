@@ -1,0 +1,47 @@
+"AppState"
+{
+	"appid"		"1874900"
+	"Universe"		"1"
+	"LauncherPath"		"C:\\Users\\arieu\\OneDrive\\Escritorio\\SteamCMD\\steamcmd.exe"
+	"name"		"Arma Reforger Server"
+	"StateFlags"		"4"
+	"installdir"		"Arma Reforger Server"
+	"LastUpdated"		"1717689098"
+	"LastPlayed"		"0"
+	"SizeOnDisk"		"5409079592"
+	"StagingSize"		"0"
+	"buildid"		"13983787"
+	"LastOwner"		"76561199609846944"
+	"UpdateResult"		"0"
+	"BytesToDownload"		"4140512032"
+	"BytesDownloaded"		"4140512032"
+	"BytesToStage"		"5438291765"
+	"BytesStaged"		"5438291765"
+	"TargetBuildID"		"13983787"
+	"AutoUpdateBehavior"		"0"
+	"AllowOtherDownloadsWhileRunning"		"0"
+	"ScheduledAutoUpdate"		"0"
+	"InstalledDepots"
+	{
+		"1874901"
+		{
+			"manifest"		"7043526537926421864"
+			"size"		"5327504331"
+		}
+		"1874903"
+		{
+			"manifest"		"7078905583374630086"
+			"size"		"81575261"
+		}
+	}
+	"SharedDepots"
+	{
+		"228988"		"228980"
+	}
+	"UserConfig"
+	{
+	}
+	"MountedConfig"
+	{
+	}
+}
