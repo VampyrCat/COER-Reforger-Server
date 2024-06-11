@@ -1,0 +1,259 @@
+
+
+[2024-06-06 18:25:50] Client version: 1716584438
+[2024-06-06 18:25:50] Load failed: C:\Users\arieu\OneDrive\Escritorio\SteamCMD\steamapps\libraryfolders.vdf.
+[2024-06-06 18:25:50] Load failed: C:\Users\arieu\OneDrive\Escritorio\SteamCMD\config\libraryfolders.vdf.
+[2024-06-06 18:25:50] Steam library folders configuration will be reset.
+[2024-06-06 18:25:50] No install folder configuration files found.
+
+
+[2024-06-06 18:28:53] Client version: 1716584438
+[2024-06-06 18:28:53] Load failed: C:\Users\arieu\OneDrive\Escritorio\SteamCMD\steamapps\libraryfolders.vdf.
+[2024-06-06 18:28:53] Load failed: C:\Users\arieu\OneDrive\Escritorio\SteamCMD\config\libraryfolders.vdf.
+[2024-06-06 18:28:53] Steam library folders configuration will be reset.
+[2024-06-06 18:28:53] No install folder configuration files found.
+[2024-06-06 18:30:01] Loaded 0 apps from install folder "C:\Users\arieu\OneDrive\Escritorio\SteamCMD\steamapps\appmanifest_*.acf".
+[2024-06-06 18:30:01] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-06 18:30:19] Loaded 0 apps from install folder "c:\arma-reforger-server\steamapps\appmanifest_*.acf".
+[2024-06-06 18:30:19] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-06 18:31:30] Loaded 0 apps from install folder "c:\steamapps\appmanifest_*.acf".
+[2024-06-06 18:31:30] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-06 18:31:41] Loaded 0 apps from install folder "c:\arma-reforger-server\steamapps\appmanifest_*.acf".
+[2024-06-06 18:31:41] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-06 18:31:58] Failed installing AppID 18749000 (No subscription)
+
+
+[2024-06-06 18:40:54] Client version: 1716584438
+[2024-06-06 18:40:54] Loaded Steam library folders configuration: C:\Users\arieu\OneDrive\Escritorio\SteamCMD\steamapps\libraryfolders.vdf
+[2024-06-06 18:40:56] Loaded 0 apps from install folder "c:\users\arieu\onedrive\escritorio\servers\armareforger\steamapps\appmanifest_*.acf".
+[2024-06-06 18:40:56] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-06 18:40:58] AppID 1874900 state changed : Update Required,
+[2024-06-06 18:40:58] AppID 228980 state changed : Update Required,Shared Only,
+[2024-06-06 18:40:58] AppID 228980 state changed : Update Required,
+[2024-06-06 18:40:58] Dependency added: parent 228980, child 1874900, depot 228988
+[2024-06-06 18:40:58] AppID 1874900 user config changed : added depots 1874901,1874903
+[2024-06-06 18:40:58] AppID 228980 user config changed : added depots 228988
+[2024-06-06 18:40:58] AppID 1874900 scheduler update : Priority First, not played for 0 seconds, update disabled for 0 seconds
+[2024-06-06 18:40:58] AppID 1874900 state changed : Update Required,Update Queued,
+[2024-06-06 18:40:58] AppID 1874900 scheduler update : Priority First, not played for 0 seconds, update disabled for 0 seconds
+[2024-06-06 18:40:58] AppID 228980 config changed : added depots 228988
+[2024-06-06 18:40:58] AppID 1874900 config changed : added depots 1874901,1874903
+[2024-06-06 18:40:58] AppID 1874900 state changed : Update Required,Update Queued,Update Running,
+[2024-06-06 18:40:58] AppID 228980 state changed : Update Required,Update Running,
+[2024-06-06 18:40:58] AppID 1874900 update changed : Running Update,
+[2024-06-06 18:40:58] AppID 1874900 update changed : Running Update,Reconfiguring,
+[2024-06-06 18:40:59] Got 20 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 30 / Launcher 3)
+[2024-06-06 18:40:59] Moving to source priority class '4'
+[2024-06-06 18:40:59] Created download interface of type 'SteamCache' (7) to host cache15-fra2.steamcontent.com (cache15-fra2.steamcontent.com)
+[2024-06-06 18:40:59] Created download interface of type 'SteamCache' (7) to host cache16-fra2.steamcontent.com (cache16-fra2.steamcontent.com)
+[2024-06-06 18:40:59] Created download interface of type 'SteamCache' (7) to host cache13-fra2.steamcontent.com (cache13-fra2.steamcontent.com)
+[2024-06-06 18:40:59] HTTP/2 available
+[2024-06-06 18:40:59] Created dual-stack http client
+[2024-06-06 18:41:00] HTTPS (SteamCache,240) - cache15-fra2.steamcontent.com ([2a01:bc80:c:102::9b85:e226]:443 / [2a01:bc80:c:102::9b85:e226]:443, host: cache15-fra2.steamcontent.com): Negotiated HTTP/2
+[2024-06-06 18:41:00] HTTP/2 (SteamCache,240) - cache15-fra2.steamcontent.com ([2a01:bc80:c:102::9b85:e226]:443 / [2a01:bc80:c:102::9b85:e226]:443, host: cache15-fra2.steamcontent.com): cache15-fra2.steamcontent.com/depot/228988/manifest/6645201662696499616/5/12148590951667261167 - received 200 (OK) HTTP response
+[2024-06-06 18:41:01] HTTP/2 (SteamCache,240) - cache15-fra2.steamcontent.com ([2a01:bc80:c:102::9b85:e226]:443 / [2a01:bc80:c:102::9b85:e226]:443, host: cache15-fra2.steamcontent.com): cache15-fra2.steamcontent.com/depot/1874901/manifest/7043526537926421864/5/2772057458066526568 - received 200 (OK) HTTP response
+[2024-06-06 18:41:02] HTTP/2 (SteamCache,240) - cache15-fra2.steamcontent.com ([2a01:bc80:c:102::9b85:e226]:443 / [2a01:bc80:c:102::9b85:e226]:443, host: cache15-fra2.steamcontent.com): cache15-fra2.steamcontent.com/depot/1874903/manifest/7078905583374630086/5/15819938022164073435 - received 200 (OK) HTTP response
+[2024-06-06 18:41:02] AppID 1874900 update changed : Running Update,
+[2024-06-06 18:41:02] AppID 1874900 update changed : Running Update,Validating,
+[2024-06-06 18:41:02] AppID 1874900 update changed : Running Update,
+[2024-06-06 18:41:02] AppID 1874900 update changed : Running Update,Preallocating,
+[2024-06-06 18:41:02] AppID 228980 preallocated 2 files (27 MB) 
+[2024-06-06 18:41:02] AppID 1874900 preallocated 10 files (5158 MB) 
+[2024-06-06 18:41:02] AppID 1874900 update changed : Running Update,
+[2024-06-06 18:41:02] AppID 228980 update started : download 0/22411856, store 0/0, reuse 0/0, delta 0/0, stage 0/29212173 
+[2024-06-06 18:41:02] AppID 228980 state changed : Update Required,Update Running,Update Started,
+[2024-06-06 18:41:02] AppID 1874900 update started : download 0/4118100176, store 0/0, reuse 0/0, delta 0/0, stage 0/5409079592 
+[2024-06-06 18:41:02] AppID 1874900 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2024-06-06 18:41:02] AppID 1874900 update changed : Running Update,Downloading,Staging,
+[2024-06-06 18:41:02] Downloading 26 chunks from depot 228988
+[2024-06-06 18:41:02] HTTPS (SteamCache,254) - cache16-fra2.steamcontent.com ([2a01:bc80:c:103::9b85:e235]:443 / [2a01:bc80:c:103::9b85:e235]:443, host: cache16-fra2.steamcontent.com): Negotiated HTTP/2
+[2024-06-06 18:41:02] HTTPS (SteamCache,238) - cache13-fra2.steamcontent.com ([2a01:bc80:c:100::9b85:e205]:443 / [2a01:bc80:c:100::9b85:e205]:443, host: cache13-fra2.steamcontent.com): Negotiated HTTP/2
+[2024-06-06 18:41:04] AppID 1874900 update changed : Running Update,
+[2024-06-06 18:41:04] AppID 1874900 update changed : Running Update,Downloading,Staging,
+[2024-06-06 18:41:04] Downloading 5377 chunks from depot 1874901
+[2024-06-06 18:41:12] Increasing target number of download connections to 4 (rate was 0.000, now 339.319)
+[2024-06-06 18:41:12] Created download interface of type 'SteamCache' (7) to host cache9-fra2.steamcontent.com (cache9-fra2.steamcontent.com)
+[2024-06-06 18:41:13] HTTPS (SteamCache,150) - cache9-fra2.steamcontent.com ([2a01:bc80:c:100::9b85:e204]:443 / [2a01:bc80:c:100::9b85:e204]:443, host: cache9-fra2.steamcontent.com): Negotiated HTTP/2
+[2024-06-06 18:41:24] Increasing target number of download connections to 5 (rate was 339.319, now 458.978)
+[2024-06-06 18:41:24] Created download interface of type 'SteamCache' (7) to host cache2-fra2.steamcontent.com (cache2-fra2.steamcontent.com)
+[2024-06-06 18:41:47] Increasing target number of download connections to 6 (rate was 458.978, now 555.135)
+[2024-06-06 18:41:47] Created download interface of type 'SteamCache' (7) to host cache4-fra2.steamcontent.com (cache4-fra2.steamcontent.com)
+
+
+[2024-06-06 18:50:58] Client version: 1716584438
+[2024-06-06 18:50:58] Loaded Steam library folders configuration: C:\Users\arieu\OneDrive\Escritorio\SteamCMD\steamapps\libraryfolders.vdf
+[2024-06-06 18:51:00] Loaded 2 apps from install folder "c:\users\arieu\onedrive\escritorio\servers\armareforger\steamapps\appmanifest_*.acf".
+[2024-06-06 18:51:00] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-06 18:51:02] AppID 1874900 config changed : added depots 1874901,1874903
+[2024-06-06 18:51:02] AppID 228980 config changed : added depots 228988
+[2024-06-06 18:51:02] AppID 1874900 scheduler update : Priority First, not played for 604 seconds, update disabled for 0 seconds
+[2024-06-06 18:51:02] AppID 1874900 state changed : Update Required,Update Queued,Update Started,
+[2024-06-06 18:51:03] AppID 228980 config changed : added depots 228988
+[2024-06-06 18:51:03] AppID 1874900 config changed : added depots 1874901,1874903
+[2024-06-06 18:51:03] AppID 1874900 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2024-06-06 18:51:03] AppID 228980 state changed : Update Required,Update Running,Update Started,
+[2024-06-06 18:51:03] AppID 1874900 update changed : Running Update,
+[2024-06-06 18:51:03] AppID 1874900 update changed : Running Update,Reconfiguring,
+[2024-06-06 18:51:03] AppID 1874900 update changed : Running Update,
+[2024-06-06 18:51:03] AppID 228980 update started : download 22411856/22411856, store 0/0, reuse 0/0, delta 0/0, stage 29212173/29212173 
+[2024-06-06 18:51:03] AppID 1874900 update started : download 2861160976/4118100176, store 0/0, reuse 0/0, delta 0/0, stage 3968138193/5409079592 
+[2024-06-06 18:51:03] AppID 1874900 update changed : Running Update,Staging,
+[2024-06-06 18:51:03] AppID 1874900 update changed : Running Update,
+[2024-06-06 18:51:03] AppID 1874900 update changed : Running Update,Downloading,Staging,
+[2024-06-06 18:51:03] Got 20 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 30 / Launcher 3)
+[2024-06-06 18:51:03] Moving to source priority class '4'
+[2024-06-06 18:51:03] Created download interface of type 'SteamCache' (7) to host cache15-fra2.steamcontent.com (cache15-fra2.steamcontent.com)
+[2024-06-06 18:51:03] Created download interface of type 'SteamCache' (7) to host cache13-fra2.steamcontent.com (cache13-fra2.steamcontent.com)
+[2024-06-06 18:51:03] Created download interface of type 'SteamCache' (7) to host cache16-fra2.steamcontent.com (cache16-fra2.steamcontent.com)
+[2024-06-06 18:51:03] Downloading 1334 chunks from depot 1874901
+[2024-06-06 18:51:03] HTTP/2 available
+[2024-06-06 18:51:03] Created dual-stack http client
+[2024-06-06 18:51:04] HTTPS (SteamCache,240) - cache15-fra2.steamcontent.com ([2a01:bc80:c:102::9b85:e226]:443 / [2a01:bc80:c:102::9b85:e226]:443, host: cache15-fra2.steamcontent.com): Negotiated HTTP/2
+[2024-06-06 18:51:04] HTTPS (SteamCache,238) - cache13-fra2.steamcontent.com ([2a01:bc80:c:100::9b85:e205]:443 / [2a01:bc80:c:100::9b85:e205]:443, host: cache13-fra2.steamcontent.com): Negotiated HTTP/2
+[2024-06-06 18:51:04] HTTPS (SteamCache,254) - cache16-fra2.steamcontent.com ([2a01:bc80:c:103::9b85:e235]:443 / [2a01:bc80:c:103::9b85:e235]:443, host: cache16-fra2.steamcontent.com): Negotiated HTTP/2
+[2024-06-06 18:51:16] Increasing target number of download connections to 4 (rate was 0.000, now 372.708)
+[2024-06-06 18:51:16] Created download interface of type 'SteamCache' (7) to host cache2-fra2.steamcontent.com (cache2-fra2.steamcontent.com)
+[2024-06-06 18:51:16] HTTPS (SteamCache,152) - cache2-fra2.steamcontent.com ([2a01:bc80:c:101::9b85:e212]:443 / [2a01:bc80:c:101::9b85:e212]:443, host: cache2-fra2.steamcontent.com): Negotiated HTTP/2
+[2024-06-06 18:51:27] Downloading 82 chunks from depot 1874903
+[2024-06-06 18:51:28] AppID 1874900 update changed : Running Update,
+[2024-06-06 18:51:28] AppID 1874900 update changed : Running Update,Verifying,
+[2024-06-06 18:51:28] Verified 27 MB in 'C:\Users\arieu\OneDrive\Escritorio\SteamCMD', clean bytes tally is now 27 MB
+[2024-06-06 18:51:28] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-06 18:51:38] Verified 5158 MB in 'C:\Users\arieu\OneDrive\Escritorio\SteamCMD', clean bytes tally is now 5186 MB
+[2024-06-06 18:51:38] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-06 18:51:38] AppID 1874900 update changed : Running Update,
+[2024-06-06 18:51:38] AppID 1874900 update changed : Running Update,Committing,
+[2024-06-06 18:51:38] AppID 228980 starting commit from "c:\users\arieu\onedrive\escritorio\servers\armareforger\steamapps\downloading\228980" to "c:\users\arieu\onedrive\escritorio\servers\armareforger" : 5 updated, 0 moved, 0 deleted files
+[2024-06-06 18:51:38] AppID 228980 state changed : Fully Installed,Update Running,
+[2024-06-06 18:51:38] AppID 228980 finished update, 1 mounted depots (BuildID 14615842) : 228988 (6645201662696499616),
+[2024-06-06 18:51:38] AppID 1874900 starting commit from "c:\users\arieu\onedrive\escritorio\servers\armareforger\steamapps\downloading\1874900" to "c:\users\arieu\onedrive\escritorio\servers\armareforger" : 52 updated, 0 moved, 0 deleted files
+[2024-06-06 18:51:38] AppID 1874900 state changed : Fully Installed,Update Queued,Update Running,
+[2024-06-06 18:51:38] AppID 1874900 finished update, 2 mounted depots (BuildID 13983787) : 1874901 (7043526537926421864),1874903 (7078905583374630086),
+[2024-06-06 18:51:38] AppID 1874900 update changed : Running Update,
+[2024-06-06 18:51:38] AppID 1874900 update changed : None
+[2024-06-06 18:51:38] AppID 228980 state changed : Fully Installed,
+[2024-06-06 18:51:38] AppID 1874900 state changed : Fully Installed,Update Queued,
+[2024-06-06 18:51:38] AppID 1874900 state changed : Fully Installed,
+[2024-06-06 18:51:38] AppID 1874900 scheduler finished : removed from schedule (result No Error, state 0xc) 
+[2024-06-06 18:51:38] HTTP/2 (SteamCache,152) - cache2-fra2.steamcontent.com ([2a01:bc80:c:101::9b85:e212]:443 / [2a01:bc80:c:101::9b85:e212]:443, host: cache2-fra2.steamcontent.com): Closing connection
+[2024-06-06 18:51:38] HTTP/2 (SteamCache,254) - cache16-fra2.steamcontent.com ([2a01:bc80:c:103::9b85:e235]:443 / [2a01:bc80:c:103::9b85:e235]:443, host: cache16-fra2.steamcontent.com): Closing connection
+[2024-06-06 18:51:38] HTTP/2 (SteamCache,238) - cache13-fra2.steamcontent.com ([2a01:bc80:c:100::9b85:e205]:443 / [2a01:bc80:c:100::9b85:e205]:443, host: cache13-fra2.steamcontent.com): Closing connection
+[2024-06-06 18:51:38] HTTP/2 (SteamCache,240) - cache15-fra2.steamcontent.com ([2a01:bc80:c:102::9b85:e226]:443 / [2a01:bc80:c:102::9b85:e226]:443, host: cache15-fra2.steamcontent.com): Closing connection
+
+
+[2024-06-06 18:52:21] Client version: 1716584438
+[2024-06-06 18:52:21] Loaded Steam library folders configuration: C:\Users\arieu\OneDrive\Escritorio\SteamCMD\steamapps\libraryfolders.vdf
+[2024-06-06 18:52:24] Loaded 2 apps from install folder "c:\users\arieu\onedrive\escritorio\servers\armareforger\steamapps\appmanifest_*.acf".
+[2024-06-06 18:52:24] Triggered async write of Steam library folders configuration (1 libraries).
+
+
+[2024-06-06 18:52:45] Client version: 1716584438
+[2024-06-06 18:52:45] Loaded Steam library folders configuration: C:\Users\arieu\OneDrive\Escritorio\SteamCMD\steamapps\libraryfolders.vdf
+[2024-06-06 18:52:47] Loaded 2 apps from install folder "c:\users\arieu\onedrive\escritorio\servers\armareforger\steamapps\appmanifest_*.acf".
+[2024-06-06 18:52:47] Triggered async write of Steam library folders configuration (1 libraries).
+
+
+[2024-06-06 19:48:25] Client version: 1716584438
+[2024-06-06 19:48:25] Loaded Steam library folders configuration: C:\Users\arieu\OneDrive\Escritorio\SteamCMD\steamapps\libraryfolders.vdf
+[2024-06-06 19:48:27] Loaded 2 apps from install folder "c:\users\arieu\onedrive\escritorio\servers\armareforger\steamapps\appmanifest_*.acf".
+[2024-06-06 19:48:27] Triggered async write of Steam library folders configuration (1 libraries).
+
+
+[2024-06-06 19:50:55] Client version: 1716584438
+[2024-06-06 19:50:55] Loaded Steam library folders configuration: C:\Users\arieu\OneDrive\Escritorio\SteamCMD\steamapps\libraryfolders.vdf
+[2024-06-06 19:50:57] Loaded 2 apps from install folder "c:\users\arieu\onedrive\escritorio\servers\armareforger\steamapps\appmanifest_*.acf".
+[2024-06-06 19:50:57] Triggered async write of Steam library folders configuration (1 libraries).
+
+
+[2024-06-06 19:57:05] Client version: 1716584438
+[2024-06-06 19:57:05] Loaded Steam library folders configuration: C:\Users\arieu\OneDrive\Escritorio\SteamCMD\steamapps\libraryfolders.vdf
+[2024-06-06 19:57:08] Loaded 2 apps from install folder "c:\users\arieu\onedrive\escritorio\servers\armareforger\steamapps\appmanifest_*.acf".
+[2024-06-06 19:57:08] Triggered async write of Steam library folders configuration (1 libraries).
+
+
+[2024-06-06 19:57:33] Client version: 1716584438
+[2024-06-06 19:57:33] Loaded Steam library folders configuration: C:\Users\arieu\OneDrive\Escritorio\SteamCMD\steamapps\libraryfolders.vdf
+[2024-06-06 19:57:35] Loaded 2 apps from install folder "c:\users\arieu\onedrive\escritorio\servers\armareforger\steamapps\appmanifest_*.acf".
+[2024-06-06 19:57:35] Triggered async write of Steam library folders configuration (1 libraries).
+
+
+[2024-06-06 19:57:58] Client version: 1716584438
+[2024-06-06 19:57:58] Loaded Steam library folders configuration: C:\Users\arieu\OneDrive\Escritorio\SteamCMD\steamapps\libraryfolders.vdf
+[2024-06-06 19:58:01] Loaded 2 apps from install folder "c:\users\arieu\onedrive\escritorio\servers\armareforger\steamapps\appmanifest_*.acf".
+[2024-06-06 19:58:01] Triggered async write of Steam library folders configuration (1 libraries).
+
+
+[2024-06-06 20:05:11] Client version: 1716584438
+[2024-06-06 20:05:11] Loaded Steam library folders configuration: C:\Users\arieu\OneDrive\Escritorio\SteamCMD\steamapps\libraryfolders.vdf
+[2024-06-06 20:05:13] Loaded 2 apps from install folder "c:\users\arieu\onedrive\escritorio\servers\armareforger\steamapps\appmanifest_*.acf".
+[2024-06-06 20:05:13] Triggered async write of Steam library folders configuration (1 libraries).
+
+
+[2024-06-06 20:06:47] Client version: 1716584438
+[2024-06-06 20:06:47] Loaded Steam library folders configuration: C:\Users\arieu\OneDrive\Escritorio\SteamCMD\steamapps\libraryfolders.vdf
+[2024-06-06 20:06:50] Loaded 2 apps from install folder "c:\users\arieu\onedrive\escritorio\servers\armareforger\steamapps\appmanifest_*.acf".
+[2024-06-06 20:06:50] Triggered async write of Steam library folders configuration (1 libraries).
+
+
+[2024-06-06 20:11:36] Client version: 1716584438
+[2024-06-06 20:11:36] Loaded Steam library folders configuration: C:\Users\arieu\OneDrive\Escritorio\SteamCMD\steamapps\libraryfolders.vdf
+[2024-06-06 20:11:38] Loaded 2 apps from install folder "c:\users\arieu\onedrive\escritorio\servers\armareforger\steamapps\appmanifest_*.acf".
+[2024-06-06 20:11:38] Triggered async write of Steam library folders configuration (1 libraries).
+
+
+[2024-06-07 08:23:44] Client version: 1716584438
+[2024-06-07 08:23:44] Loaded Steam library folders configuration: C:\Users\arieu\OneDrive\Escritorio\SteamCMD\steamapps\libraryfolders.vdf
+[2024-06-07 08:23:46] Loaded 2 apps from install folder "c:\users\arieu\onedrive\escritorio\servers\armareforger\steamapps\appmanifest_*.acf".
+[2024-06-07 08:23:46] Triggered async write of Steam library folders configuration (1 libraries).
+
+
+[2024-06-07 08:26:01] Client version: 1716584438
+[2024-06-07 08:26:01] Loaded Steam library folders configuration: C:\Users\arieu\OneDrive\Escritorio\SteamCMD\steamapps\libraryfolders.vdf
+[2024-06-07 08:26:04] Loaded 2 apps from install folder "c:\users\arieu\onedrive\escritorio\servers\armareforger\steamapps\appmanifest_*.acf".
+[2024-06-07 08:26:04] Triggered async write of Steam library folders configuration (1 libraries).
+
+
+[2024-06-07 09:18:32] Client version: 1716584438
+[2024-06-07 09:18:32] Loaded Steam library folders configuration: C:\Users\arieu\OneDrive\Escritorio\SteamCMD\steamapps\libraryfolders.vdf
+[2024-06-07 09:18:34] Loaded 2 apps from install folder "c:\users\arieu\onedrive\escritorio\servers\armareforger\steamapps\appmanifest_*.acf".
+[2024-06-07 09:18:34] Triggered async write of Steam library folders configuration (1 libraries).
+
+
+[2024-06-07 09:18:52] Client version: 1716584438
+[2024-06-07 09:18:52] Loaded Steam library folders configuration: C:\Users\arieu\OneDrive\Escritorio\SteamCMD\steamapps\libraryfolders.vdf
+[2024-06-07 09:18:54] Loaded 2 apps from install folder "c:\users\arieu\onedrive\escritorio\servers\armareforger\steamapps\appmanifest_*.acf".
+[2024-06-07 09:18:54] Triggered async write of Steam library folders configuration (1 libraries).
+
+
+[2024-06-07 12:23:26] Client version: 1716584438
+[2024-06-07 12:23:26] Loaded Steam library folders configuration: C:\Users\arieu\OneDrive\Escritorio\SteamCMD\steamapps\libraryfolders.vdf
+
+
+[2024-06-07 12:23:30] Client version: 1716584438
+[2024-06-07 12:23:30] Loaded Steam library folders configuration: C:\Users\arieu\OneDrive\Escritorio\SteamCMD\steamapps\libraryfolders.vdf
+[2024-06-07 12:23:32] Loaded 2 apps from install folder "c:\users\arieu\onedrive\escritorio\servers\armareforger\steamapps\appmanifest_*.acf".
+[2024-06-07 12:23:32] Triggered async write of Steam library folders configuration (1 libraries).
+
+
+[2024-06-11 10:31:33] Client version: 1716584438
+[2024-06-11 10:31:33] Loaded Steam library folders configuration: C:\Users\arieu\OneDrive\Escritorio\SteamCMD\steamapps\libraryfolders.vdf
+[2024-06-11 10:31:35] Loaded 2 apps from install folder "c:\users\arieu\onedrive\escritorio\servers\armareforger\steamapps\appmanifest_*.acf".
+[2024-06-11 10:31:35] Triggered async write of Steam library folders configuration (1 libraries).
+
+
+[2024-06-11 10:36:14] Client version: 1716584438
+[2024-06-11 10:36:14] Loaded Steam library folders configuration: C:\Users\arieu\OneDrive\Escritorio\SteamCMD\steamapps\libraryfolders.vdf
+[2024-06-11 10:36:16] Loaded 2 apps from install folder "c:\users\arieu\onedrive\escritorio\servers\armareforger\steamapps\appmanifest_*.acf".
+[2024-06-11 10:36:16] Triggered async write of Steam library folders configuration (1 libraries).
+
+
+[2024-06-11 10:38:15] Client version: 1716584438
+[2024-06-11 10:38:15] Loaded Steam library folders configuration: C:\Users\arieu\OneDrive\Escritorio\SteamCMD\steamapps\libraryfolders.vdf
+[2024-06-11 10:38:17] Loaded 2 apps from install folder "c:\users\arieu\onedrive\escritorio\servers\armareforger\steamapps\appmanifest_*.acf".
+[2024-06-11 10:38:17] Triggered async write of Steam library folders configuration (1 libraries).
+
+
+[2024-06-11 10:40:00] Client version: 1716584438
+[2024-06-11 10:40:00] Loaded Steam library folders configuration: C:\Users\arieu\OneDrive\Escritorio\SteamCMD\steamapps\libraryfolders.vdf
+[2024-06-11 10:40:02] Loaded 2 apps from install folder "c:\users\arieu\onedrive\escritorio\servers\armareforger\steamapps\appmanifest_*.acf".
+[2024-06-11 10:40:02] Triggered async write of Steam library folders configuration (1 libraries).

@@ -1,0 +1,24 @@
+"UserLocalConfigStore"
+{
+	"AppInfoChangeNumber"		"23918875"
+	"UserAppConfig"
+	{
+		"228980"		"0055736572436f6e6669670001426574614b6579007075626c6963000808"
+	}
+	"Software"
+	{
+		"Valve"
+		{
+			"Steam"
+			{
+				"apps"
+				{
+					"1874900"
+					{
+						"LastPlayed"		"1717688458"
+					}
+				}
+			}
+		}
+	}
+}
