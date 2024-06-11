@@ -1,0 +1,83 @@
+GameProject {
+ ID "core"
+ GUID "5614BBCCBB55ED1C"
+ TITLE "Enfusion core data"
+ Configurations {
+  GameProjectConfig PC {
+   SplashScreenClass "BaseLoadingAnim"
+   PlatformHardware PC
+   ScriptProjectManagerSettings ScriptProjectManagerSettings "{AC4BE58770485E4B}" {
+    Modules {
+     ScriptModulePathClass core {
+      Paths {
+       "{639064AD5A5F600B}scripts/Core"
+      }
+     }
+     ScriptModulePathClass gameLib {
+      Paths {
+       "{53AB5D17A4D25BC6}scripts/GameLib"
+      }
+     }
+     ScriptModulePathClass game {
+      EntryPoint "CreateGame"
+     }
+     ScriptModulePathClass workbench {
+      Paths {
+       "{5E2E8AAB6EE599B2}scripts/WorkbenchCommon"
+      }
+     }
+     ScriptModulePathClass workbenchGame {
+      Paths {
+       "{CB2D92434525FFFD}scripts/WorkbenchGameCommon"
+      }
+     }
+    }
+    Configurations {
+     ScriptConfigurationClass workbench {
+      Defines {
+       "PLATFORM_WINDOWS" "WORKBENCH" "ENF_WB" "ENABLE_DIAG"
+      }
+     }
+     ScriptConfigurationClass pc {
+      Defines {
+       "PLATFORM_WINDOWS" "ENF_WB"
+      }
+     }
+     ScriptConfigurationClass xbox {
+      Defines {
+       "PLATFORM_CONSOLE" "PLATFORM_XBOX"
+      }
+     }
+     ScriptConfigurationClass ps4 {
+      Defines {
+       "PLATFORM_CONSOLE" "PLATFORM_PS4"
+      }
+     }
+    }
+   }
+   SystemModuleSettings SystemModuleSettings "{5F10A1570304557B}" {
+    DefaultConfig "{45C53F06BA17238D}configs/Systems/SystemsConfig.conf"
+   }
+   WidgetManagerSettings WidgetManagerSettings "{5EECE227C6106564}" {
+    WidgetStyles {
+     "{7C6EB5E8D8274A6B}UI/Styles/default.styles" "{1C816679FF2DE6AA}UI/Styles/debugUI.styles"
+    }
+   }
+  }
+  GameProjectConfig XBOX_ONE : PC {
+   PlatformHardware XBOX_ONE
+  }
+  GameProjectConfig XBOX_SERIES : PC {
+   PlatformHardware XBOX_SERIES
+  }
+  GameProjectConfig PS4 : PC {
+   PlatformHardware PS4
+  }
+  GameProjectConfig PS5 : PC {
+   PlatformHardware PS5
+  }
+  GameProjectConfig HEADLESS : PC {
+   PlatformHardware PC
+  }
+ }
+}
