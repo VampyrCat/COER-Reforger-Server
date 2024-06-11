@@ -1,0 +1,12 @@
+{
+    "README": "docs.google.com/document/d/1MSWFsCE7bu9cRvsVj8gB2KzSA85M92Y2e3w6m--Qao4",
+    "enableRotation": false,
+    "scenarioPool": [
+        "{ECC61978EDCC2B5A}Missions/23_Campaign.conf",
+        "{C41618FD18E9D714}Missions/23_Campaign_Arland.conf"
+    ],
+    "rotationType": "RANDOM",
+    "rotationDelay": 15.0,
+    "excludeCurrent": false,
+    "rotateFromListOnly": false
+}

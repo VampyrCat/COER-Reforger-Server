@@ -1,0 +1,255 @@
+{
+	"bindAddress": "0.0.0.0",
+	"bindPort": 2001,
+	"publicAddress": "84.229.174.40",
+	"publicPort": 2001,
+	"a2s": {
+		"address": "84.229.174.40",
+		"port": 17777
+	},
+	"rcon": {
+		"address": "84.229.174.40",
+		"port": 19999,
+		"password": "changeme_withoutspaces",
+		"permission": "monitor",
+		"blacklist": [],
+		"whitelist": []
+	},
+	"game": {
+		"name": "COER - Dedicated Server",
+		"password": "123",
+		"passwordAdmin": "VampyrBest",
+		"admins" : [
+			"76561198017063169"
+		],
+		"scenarioId": "{97495D7BDB58336E}Missions/CoopExtractionMission.conf",
+		"maxPlayers": 13,
+		"visible": true,
+		"crossPlatform": false,
+		"gameProperties": {
+			"serverMaxViewDistance": 2500,
+			"serverMinGrassDistance": 50,
+			"networkViewDistance": 2000,
+			"disableThirdPerson": true,
+			"fastValidation": true,
+			"battlEye": true,
+			"VONDisableUI": false,
+			"VONDisableDirectSpeechUI": false
+		},
+		"mods": [
+	{
+		"modId": "5A7B79D8A910A4D1",
+		"name": "Enhanced Weapon Immersion 2.6",
+		"version": "2.6.6"
+	},
+	{
+		"modId": "60EAEA0389DB3CC2",
+		"name": "ACE Trenches",
+		"version": "1.0.0"
+	},
+	{
+		"modId": "613B4DD4A91CA144",
+		"name": "LM Suppression",
+		"version": "1.0.0"
+	},
+	{
+		"modId": "5F266C5CE1DA26C7",
+		"name": "CoopExtractor",
+		"version": "1.0.0"
+	},
+	{
+		"modId": "6042F58577E5394A",
+		"name": "Hand drawn markers",
+		"version": "1.0.2"
+	},
+	{
+		"modId": "611F3D4E2C5E04D8",
+		"name": "COALITION Lighting",
+		"version": "1.0.0"
+	},
+	{
+		"modId": "5964E0B3BB7410CE",
+		"name": "Game Master Enhanced",
+		"version": "1.2.1"
+	},
+	{
+		"modId": "5EEF1D05CCBCCC2C",
+		"name": "PIPTR",
+		"version": "1.0.3"
+	},
+	{
+		"modId": "606D03292879EF5B",
+		"name": "Scenario Reload Menu",
+		"version": "1.0.6"
+	},
+	{
+		"modId": "607D472207F3EE65",
+		"name": "FPTR",
+		"version": "1.0.0"
+	},
+	{
+		"modId": "5D0551624969C92E",
+		"name": "Zeliks Character",
+		"version": "1.1.7"
+	},
+	{
+		"modId": "609E8CAD8A403EA6",
+		"name": "Map Marker Menu Fix",
+		"version": "1.0.1"
+	},
+	{
+		"modId": "5AAAC70D754245DD",
+		"name": "Server Admin Tools",
+		"version": "1.0.57"
+	},
+	{
+		"modId": "5EE135CE07217857",
+		"name": "Talking on Radio Beeps",
+		"version": "1.0.0"
+	},
+	{
+		"modId": "5D6EBC81EB1842EF",
+		"name": "Enfusion Persistence Framework",
+		"version": "0.6.5"
+	},
+	{
+		"modId": "5EF5347644A2C501",
+		"name": "Bacon Weather",
+		"version": "1.0.5"
+	},
+	{
+		"modId": "60E573C9B04CC408",
+		"name": "ACE Backblast",
+		"version": "1.0.0"
+	},
+	{
+		"modId": "5C9758250C8C56F1",
+		"name": "Bon Action Animations",
+		"version": "0.0.31"
+	},
+	{
+		"modId": "60C4CE4888FF4621",
+		"name": "ACE Core",
+		"version": "1.0.3"
+	},
+	{
+		"modId": "5D3CCC039449D1C8",
+		"name": "DiscordPlayerList",
+		"version": "1.0.10"
+	},
+	{
+		"modId": "5F034A1344E6AC40",
+		"name": "Clumsy Characters",
+		"version": "1.0.4"
+	},
+	{
+		"modId": "5D6EA74A94173EDF",
+		"name": "Enfusion Database Framework",
+		"version": "0.6.7"
+	},
+	{
+		"modId": "5EB744C5F42E0800",
+		"name": "ACE Chopping",
+		"version": "1.1.4"
+	},
+	{
+		"modId": "59673B6FBB95459F",
+		"name": "BetterTracers",
+		"version": "1.3.0"
+	},
+	{
+		"modId": "60FE00AF990454B3",
+		"name": "Better Explosions and Fire",
+		"version": "1.0.8"
+	},
+	{
+		"modId": "5EF8AADD3B3C81F2",
+		"name": "Disable VON unconscious",
+		"version": "1.0.1"
+	},
+	{
+		"modId": "59674C21AA886D57",
+		"name": "BetterMuzzleFlashes 2.0",
+		"version": "2.0.8"
+	},
+	{
+		"modId": "59A30ACC02650E71",
+		"name": "Night Vision System",
+		"version": "1.1.21"
+	},
+	{
+		"modId": "59BA048FA618471A",
+		"name": "Shrapnel",
+		"version": "1.1.6"
+	},
+	{
+		"modId": "5F0415B04485E3FB",
+		"name": "RadioShortage",
+		"version": "1.0.9"
+	},
+	{
+		"modId": "5994AD5A9F33BE57",
+		"name": "Game Master FX",
+		"version": "1.0.82"
+	},
+	{
+		"modId": "5ED143120C5465BD",
+		"name": "SESOF MagRepack",
+		"version": "1.2.21"
+	},
+	{
+		"modId": "5EE9238E61637E47",
+		"name": "PSCore",
+		"version": "1.0.7"
+	},
+	{
+		"modId": "5DBD560C5148E1DA",
+		"name": "ACE Carrying",
+		"version": "1.0.18"
+	},
+	{
+		"modId": "60C40CDB56C23C6B",
+		"name": "vPad",
+		"version": "1.1.6"
+	},
+	{
+		"modId": "5F207DD6271E2799",
+		"name": "Collectable Intel & Phones",
+		"version": "1.0.1"
+	},
+	{
+		"modId": "60557550B10EB832",
+		"name": "Slower Strafe",
+		"version": "1.0.1"
+	},
+	{
+		"modId": "60781962C0AAE954",
+		"name": "PIPCQB",
+		"version": "1.1.17"
+	},
+	{
+		"modId": "5ED8BE1DDFEFBE4C",
+		"name": "Admin Messages",
+		"version": "1.0.6"
+	},
+	{
+		"modId": "59651354B2904BA6",
+		"name": "BetterHitsEffects",
+		"version": "2.9.12"
+	},
+	{
+		"modId": "5ABD0CB57F7E9EB1",
+		"name": "RIS Laser Attachments",
+		"version": "1.0.68"
+	},
+	{
+		"modId": "5F314ECB447761B8",
+		"name": "Knockdown",
+		"version": "1.0.1"
+	}
+		]
+	},
+	"operating": {
+		"lobbyPlayerSynchronise": true
+	}
+}
